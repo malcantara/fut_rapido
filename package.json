@@ -2,6 +2,7 @@
   "repository": {},
   "license": "MIT",
   "scripts": {
+    "deploy": "webpack -p",
     "watch": "webpack --watch-stdin --progress --color"
   },
   "dependencies": {
